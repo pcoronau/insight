@@ -14,7 +14,7 @@ for popular categories.
 
 The notebook is thoroughly annotated and explained.
 
-The web app can be found at: u-value.herokuapp.com, also documented in my webapp github folder.
+The web app can be found at: https://u-value.herokuapp.com, also documented in my webapp github folder.
 
 
 
