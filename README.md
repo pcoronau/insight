@@ -8,7 +8,7 @@ approximatly 5,000 companies. Each review is separated into positive aspects and
 in 5 different areas: management, salary, work/life balance, company culture and career opportunities. 
 
 I use the reviews to generate a simplified score in any area and company selected by the user. To do so, I use glove,
-a word embedding algorithm, able to capture analogies, synonyms and antonyms. My tool outputs a bar chart and a pie chart 
+a word embedding algorithm, able to capture analogies, synonyms and antonyms, in general the semantic meaning of the word. My tool outputs a bar chart and a pie chart 
 for each area, along with a boxplot indicating where in the distribution the selected company lies, as well as scores 
 for popular categories. 
 
