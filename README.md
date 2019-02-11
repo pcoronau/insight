@@ -1,7 +1,7 @@
 # insight
 Contains insight project
 
-This notebook contains the code for my insight project where I built the tool UValue.
+This notebook contains the code for my Insight project where I built the tool UValue, developed during the first 3 weeks of the fellowship.
 
 __Problem statement:__
 
